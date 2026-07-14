@@ -1,6 +1,10 @@
-# Agentic AI — Educational Engagement Program (EEP)
+# Agentic AI — Educator Enablement Program (EEP)
 
-A modular curriculum designed to teach the fundamentals and applications of Agentic AI, from core concepts to hands-on building with AI agents. Created by the Machine Learning University (MLU) team, this repository provides everything needed to learn or teach a complete Agentic AI course.
+Modular curriculum content designed to teach the fundamentals and applications of Agentic AI, from core concepts to hands-on building with AI agents. Created by the Machine Learning University (MLU) team, this repository provides content needed to learn or teach a complete Agentic AI course.
+
+## ⚠️ Disclaimer
+
+This repository is educational material provided as-is for learning and teaching purposes. Labs and example code should not be deployed to production environments or used to process sensitive data without independent review. Any credentials, API keys, or personal data in this repository are synthetic and exist solely for educational demonstration. When running labs, we recommend any IAM credentials scoped to the minimum permissions required as needed - avoid using broad or administrative access. Additionally, we recommend always pulling the latest version to ensure you have the most current content and fixes.
 
 ## ⚠️ Disclaimer
 
@@ -11,7 +15,7 @@ This repository is educational material provided as-is for learning and teaching
 - **Students and self-learners** looking to understand and build with Agentic AI
 - **Faculty members** at institutions adopting this curriculum — each module includes faculty support materials (design docs and embark guides) to help you prepare and deliver the content
 
-## Curriculum Overview
+## Curriculum Content Overview
 
 The program is organized into five progressive modules:
 
@@ -19,9 +23,9 @@ The program is organized into five progressive modules:
 |--------|-------|-------------|
 | 1 | **Agentic AI Essentials** | Core concepts and foundations of Agentic AI |
 | 2 | **Agentic AI Applications** | Building practical AI agent applications using tools like Strands Agents SDK, Amazon Bedrock, and guardrails |
-| 3 | **Multi-agent Collaboration** | Designing systems where multiple AI agents work together (To be delived Q3 2026) |
-| 4 | **Agentic RAG** | Retrieval-Augmented Generation in agentic architectures (To be delived Q3 2026) |
-| 5 | **Building with Agentic AI** | End-to-end project building with agentic AI tools and workflows (To be delived Q4 2026) |
+| 3 | **Multi-agent Collaboration** | Designing systems where multiple AI agents work together (To be delivered Q3 2026) |
+| 4 | **Agentic RAG** | Retrieval-Augmented Generation in agentic architectures (To be deliveredd Q3 2026) |
+| 5 | **Building with Agentic AI** | End-to-end project building with agentic AI tools and workflows (To be delivered Q4 2026) |
 
 ## Repository Structure
 
